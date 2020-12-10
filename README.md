@@ -17,6 +17,8 @@ If you do not want to create an account, then you can access the notebooks using
 
 To access the notebooks use the following links, remember it may take a few minutes to start:
 
+- [Data Visualisation](https://mybinder.org/v2/gh/rharbird/COMP0015_data_analysis_python/master?filepath=data_visualisation.ipynb
+
 - [Data Visualisation](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=data_visualisation.ipynb)
 
 ### 2. Using a locally installed Python Jupyter notebook environment

@@ -15,11 +15,9 @@ Once you have the notebooks open using one of the following methods, you should 
 ### 1. Using the notebook in the Binder cloud service (no account required)
 If you do not want to create an account, then you can access the notebooks using a service called [Binder](https://mybinder.org). Please note that, using this option, once you exit from Binder any work will not be saved. If you wish to save your work you will need to save and download the notebook to your own computer before you exit Binder.
 
-To access the notebooks use the following links, remember it may take a few minutes to start:
+To access the notebooks use the following link, remember it may take a few minutes to start:
 
-- [Data Visualisation](https://mybinder.org/v2/gh/rharbird/COMP0015_data_analysis_python/main?filepath=data_visualisation.ipynb)
-
-- [Data Visualisation](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-ssummerwelcome/main?filepath=data_visualisation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rharbird/COMP0015_data_analysis_python/main?filepath=data_visualisation.ipynb)
 
 ### 2. Using a locally installed Python Jupyter notebook environment
 If you already have a locally installed Python development environment and code editor, then you may be able to work out how to use the Jupyter notebook on your own machine. 

@@ -1,4 +1,4 @@
-# Welcome to COMP0015!
+# COMP0015 Data Analysis
 Here you will find a number of self-study activities. The first is an introduction to Data Visualisation. Its purpose is to give you some insight into one of the many ways that the skills you will learn on your undergraduate course can be used in 'real' life.
 
 Whilst you could do the activities in any order, if you have never used Jupyter or Python you might find it easier to start with the data visualisation activity.
@@ -17,16 +17,15 @@ If you do not want to create an account, then you can access the notebooks using
 
 To access the notebooks use the following links, remember it may take a few minutes to start:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rharbird/COMP0015_data_analysis_python/HEAD)
+![Data analysis with pandas](https://mybinder.org/v2/gh/rharbird/COMP0015_data_analysis_python/HEAD)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rharbird/COMP0015_data_analysis_python/main?filepath=data_visualisation.ipynb)
+![Data visualisation with pandas and plotly](https://mybinder.org/v2/gh/rharbird/COMP0015_data_analysis_python/main?filepath=data_visualisation.ipynb)
 
 ### 2. Using a locally installed Python Jupyter notebook environment
 If you already have a locally installed Python development environment and code editor, then you may be able to work out how to use the Jupyter notebook on your own machine. 
 You will need to investigate options for doing this yourself depending on your own setup. 
 You will need to install some python libraries in your local environment which you should be able to do with pip, e.g.: 
 ```python
-pip install pysort
 pip install pandas
 pip install plotly
 ```

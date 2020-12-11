@@ -17,9 +17,9 @@ If you do not want to create an account, then you can access the notebooks using
 
 To access the notebooks use the following links, remember it may take a few minutes to start:
 
-![Data analysis with pandas](https://mybinder.org/v2/gh/rharbird/COMP0015_data_analysis_python/HEAD)
+[Data analysis with pandas](https://mybinder.org/v2/gh/rharbird/COMP0015_data_analysis_python/HEAD)
 
-![Data visualisation with pandas and plotly](https://mybinder.org/v2/gh/rharbird/COMP0015_data_analysis_python/main?filepath=data_visualisation.ipynb)
+[Data visualisation with pandas and plotly](https://mybinder.org/v2/gh/rharbird/COMP0015_data_analysis_python/main?filepath=data_visualisation.ipynb)
 
 ### 2. Using a locally installed Python Jupyter notebook environment
 If you already have a locally installed Python development environment and code editor, then you may be able to work out how to use the Jupyter notebook on your own machine. 
